@@ -53,6 +53,7 @@
     <Compile Include="Cadastrar.Designer.cs">
       <DependentUpon>Cadastrar.cs</DependentUpon>
     </Compile>
+    <Compile Include="Cliente.cs" />
     <Compile Include="Controle.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -71,8 +72,13 @@
     <Compile Include="Form2.Designer.cs">
       <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Fornecedores.cs" />
+    <Compile Include="Fucionarios.cs" />
+    <Compile Include="Materia_prima.cs" />
+    <Compile Include="Produtos.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Receitas.cs" />
     <EmbeddedResource Include="Cadastrar.resx">
       <DependentUpon>Cadastrar.cs</DependentUpon>
     </EmbeddedResource>
