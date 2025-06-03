@@ -70,12 +70,16 @@
     <Compile Include="Cadastrar.Designer.cs">
       <DependentUpon>Cadastrar.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="cadastro_prod.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="cadastro_prod.Designer.cs">
       <DependentUpon>cadastro_prod.cs</DependentUpon>
     </Compile>
+=======
+    <Compile Include="Cliente.cs" />
+>>>>>>> 2e320ba185eb5f98e49f8e1c08fd5e2b713d6b99
     <Compile Include="Controle.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -94,6 +98,7 @@
     <Compile Include="Form2.Designer.cs">
       <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="Form3.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -120,6 +125,15 @@
     <Compile Include="relatorio.Designer.cs">
       <DependentUpon>relatorio.cs</DependentUpon>
     </Compile>
+=======
+    <Compile Include="Fornecedores.cs" />
+    <Compile Include="Fucionarios.cs" />
+    <Compile Include="Materia_prima.cs" />
+    <Compile Include="Produtos.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Receitas.cs" />
+>>>>>>> 2e320ba185eb5f98e49f8e1c08fd5e2b713d6b99
     <EmbeddedResource Include="Cadastrar.resx">
       <DependentUpon>Cadastrar.cs</DependentUpon>
     </EmbeddedResource>

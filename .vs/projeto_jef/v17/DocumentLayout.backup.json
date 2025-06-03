@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\cCharm\\",
   "Documents": [
     {
@@ -41,6 +42,36 @@
     {
       "AbsoluteMoniker": "D:0:0:{D2223C72-9D59-445A-9D05-05D86F573EEB}|projeto_jef\\projeto_jef.csproj|C:\\Users\\Aluno\\Desktop\\cCharm\\projeto_jef\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D2223C72-9D59-445A-9D05-05D86F573EEB}|projeto_jef\\projeto_jef.csproj|solutionrelative:projeto_jef\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+=======
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\source\\repos\\cCharm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2223C72-9D59-445A-9D05-05D86F573EEB}|projeto_jef\\projeto_jef.csproj|C:\\Users\\Aluno\\source\\repos\\cCharm\\projeto_jef\\fucionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2223C72-9D59-445A-9D05-05D86F573EEB}|projeto_jef\\projeto_jef.csproj|solutionrelative:projeto_jef\\fucionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2223C72-9D59-445A-9D05-05D86F573EEB}|projeto_jef\\projeto_jef.csproj|c:\\users\\aluno\\source\\repos\\ccharm\\projeto_jef\\materia_prima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2223C72-9D59-445A-9D05-05D86F573EEB}|projeto_jef\\projeto_jef.csproj|solutionrelative:projeto_jef\\materia_prima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2223C72-9D59-445A-9D05-05D86F573EEB}|projeto_jef\\projeto_jef.csproj|C:\\Users\\Aluno\\source\\repos\\cCharm\\projeto_jef\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2223C72-9D59-445A-9D05-05D86F573EEB}|projeto_jef\\projeto_jef.csproj|solutionrelative:projeto_jef\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2223C72-9D59-445A-9D05-05D86F573EEB}|projeto_jef\\projeto_jef.csproj|C:\\Users\\Aluno\\source\\repos\\cCharm\\projeto_jef\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2223C72-9D59-445A-9D05-05D86F573EEB}|projeto_jef\\projeto_jef.csproj|solutionrelative:projeto_jef\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2223C72-9D59-445A-9D05-05D86F573EEB}|projeto_jef\\projeto_jef.csproj|C:\\Users\\Aluno\\source\\repos\\cCharm\\projeto_jef\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2223C72-9D59-445A-9D05-05D86F573EEB}|projeto_jef\\projeto_jef.csproj|solutionrelative:projeto_jef\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2223C72-9D59-445A-9D05-05D86F573EEB}|projeto_jef\\projeto_jef.csproj|c:\\users\\aluno\\source\\repos\\ccharm\\projeto_jef\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2223C72-9D59-445A-9D05-05D86F573EEB}|projeto_jef\\projeto_jef.csproj|solutionrelative:projeto_jef\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|projeto_jef||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+>>>>>>> 2e320ba185eb5f98e49f8e1c08fd5e2b713d6b99
     }
   ],
   "DocumentGroupContainers": [
@@ -49,6 +80,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
+<<<<<<< HEAD
           "DockedWidth": 200,
           "SelectedChildIndex": 0,
           "Children": [
@@ -62,22 +94,97 @@
               "RelativeToolTip": "projeto_jef\\relatorio.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T20:44:45.364Z",
+=======
+          "DockedWidth": 392,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Materia_prima.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\cCharm\\projeto_jef\\Materia_prima.cs",
+              "RelativeDocumentMoniker": "projeto_jef\\Materia_prima.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\cCharm\\projeto_jef\\Materia_prima.cs",
+              "RelativeToolTip": "projeto_jef\\Materia_prima.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:40:36.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fucionarios.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\cCharm\\projeto_jef\\Fucionarios.cs",
+              "RelativeDocumentMoniker": "projeto_jef\\Fucionarios.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\cCharm\\projeto_jef\\Fucionarios.cs",
+              "RelativeToolTip": "projeto_jef\\Fucionarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:30:20.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "projeto_jef",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\cCharm\\projeto_jef\\projeto_jef.csproj",
+              "RelativeDocumentMoniker": "projeto_jef\\projeto_jef.csproj",
+              "ToolTip": "C:\\Users\\Aluno\\Source\\Repos\\cCharm\\projeto_jef\\projeto_jef.csproj*",
+              "RelativeToolTip": "projeto_jef\\projeto_jef.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-28T20:54:22.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Controle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\cCharm\\projeto_jef\\Controle.cs",
+              "RelativeDocumentMoniker": "projeto_jef\\Controle.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\cCharm\\projeto_jef\\Controle.cs [Design]",
+              "RelativeToolTip": "projeto_jef\\Controle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:28:51.795Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cadastrar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\cCharm\\projeto_jef\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "projeto_jef\\Cadastrar.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\cCharm\\projeto_jef\\Cadastrar.cs [Design]",
+              "RelativeToolTip": "projeto_jef\\Cadastrar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:19:43.263Z",
+>>>>>>> 2e320ba185eb5f98e49f8e1c08fd5e2b713d6b99
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
               "Title": "gestao.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\cCharm\\projeto_jef\\gestao.cs",
               "RelativeDocumentMoniker": "projeto_jef\\gestao.cs",
               "ToolTip": "C:\\Users\\Aluno\\Desktop\\cCharm\\projeto_jef\\gestao.cs [Design]",
               "RelativeToolTip": "projeto_jef\\gestao.cs [Design]",
+=======
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\cCharm\\projeto_jef\\Form1.cs",
+              "RelativeDocumentMoniker": "projeto_jef\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\cCharm\\projeto_jef\\Form1.cs",
+              "RelativeToolTip": "projeto_jef\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwBsAAAAiAAAAAAAAAA==",
+>>>>>>> 2e320ba185eb5f98e49f8e1c08fd5e2b713d6b99
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T20:44:44.233Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\cCharm\\projeto_jef\\Program.cs",
@@ -144,6 +251,13 @@
               "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\cCharm\\projeto_jef\\Form1.cs",
               "RelativeDocumentMoniker": "projeto_jef\\Form1.cs",
               "ToolTip": "C:\\Users\\Aluno\\Desktop\\cCharm\\projeto_jef\\Form1.cs [Design]",
+=======
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\cCharm\\projeto_jef\\Form1.cs",
+              "RelativeDocumentMoniker": "projeto_jef\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\cCharm\\projeto_jef\\Form1.cs [Design]",
+>>>>>>> 2e320ba185eb5f98e49f8e1c08fd5e2b713d6b99
               "RelativeToolTip": "projeto_jef\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T20:43:39.815Z",
