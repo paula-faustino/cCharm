@@ -18,18 +18,6 @@ Sistema de gestão para a fábrica de chocolates ChocoCharm, voltado para contro
 - IDE: Visual Studio
 - Controle de Versão: Git + GitHub/GitLab
 
----
-## 👥 Divisão de Tarefas por Desenvolvedor
----
-🧑‍💻 Dev 1 
-- Paula Faustino - [GitHub](https://github.com/paula-faustino )
----
-🧑‍💻 Dev 2 – 
-- KaueAlvess - [GitHub](https://github.com/KaueAlvess )
----
-🧑‍💻 Dev 3 – Lógica de Negócio e Integração
-- Mayara Santana - [GitHub](https://github.com/mayara8666 )
-  
 ## 🧱 Módulos Principais do Sistema
 1. Cadastros
 Produtos
