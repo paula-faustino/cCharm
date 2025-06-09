@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Windows.Forms;
-using Banco;
 using MySql.Data.MySqlClient;
 
 namespace Projeto.jeferson
@@ -11,49 +10,75 @@ namespace Projeto.jeferson
         {
             InitializeComponent();
         }
-        
 
         private void button1_Click(object sender, EventArgs e)
-        { 
+        {
+            this.Close();
             Form1 form1 = new Form1();
-            form1.ShowDialog();
+            form1.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            string nome = txtnome.Text;
-            string cpf = txtcpf.Text;
-            string senha = txtsenha.Text;
-
-            string conexaoString = "Server=localhost;3306;Database=trabaio_jef;Uid=seuUsuario;Pwd=suaSenha;";
-
-            using (MySqlConnection conexao = new MySqlConnection(conexaoString))
+            if (string.IsNullOrWhiteSpace(txtNome.Text) ||
+                string.IsNullOrWhiteSpace(txtCPF.Text))
             {
-                try
+                MessageBox.Show("Preencha todos os campos obrigatórios!", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            string nome = txtNome.Text;
+            string cpf = txtCPF.Text;
+            string cnpj = txtCNPJ.Text;
+            string telefone = txtTelefone.Text;
+            string endereco = txtEndereco.Text;
+
+            try
+            {
+                using (MySqlConnection conn = new Conexao().Abrir())
                 {
-                    conexao.Open();
+                    string query = @"INSERT INTO clietes 
+                                    (nome, tipo, cpf, cnpj, telefone, endereco, senha_cliente) 
+                                    VALUES 
+                                    (@nome, 'PF', @cpf, @cnpj, @telefone, @endereco, '123456')";
 
-                    string sql = "INSERT INTO usuarios (nome, cpf, senha) VALUES (@nome, @cpf, @senha)";
-                    using (MySqlCommand comando = new MySqlCommand(sql, conexao))
+                    using (MySqlCommand cmd = new MySqlCommand(query, conn))
                     {
-                        comando.Parameters.AddWithValue("@nome", nome);
-                        comando.Parameters.AddWithValue("@cpf", cpf);
-                        comando.Parameters.AddWithValue("@senha", senha);
+                        cmd.Parameters.AddWithValue("@nome", nome);
+                        cmd.Parameters.AddWithValue("@cpf", cpf);
+                        cmd.Parameters.AddWithValue("@cnpj", string.IsNullOrEmpty(cnpj) ? DBNull.Value : (object)cnpj);
+                        cmd.Parameters.AddWithValue("@telefone", telefone);
+                        cmd.Parameters.AddWithValue("@endereco", endereco);
 
-                        int resultado = comando.ExecuteNonQuery();
-
-                        if (resultado > 0)
-                            MessageBox.Show("Usuário cadastrado com sucesso!");
-                        else
-                            MessageBox.Show("Erro ao cadastrar.");
+                        cmd.ExecuteNonQuery();
+                        MessageBox.Show("Cliente cadastrado com sucesso!", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        LimparCampos();
                     }
                 }
-                catch (Exception ex)
-                {
-                    MessageBox.Show("Erro: " + ex.Message);
-                }
-
             }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Erro ao cadastrar cliente: " + ex.Message, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void LimparCampos()
+        {
+            txtNome.Clear();
+            txtCPF.Clear();
+            txtCNPJ.Clear();
+            txtTelefone.Clear();
+            txtEndereco.Clear();
+        }
+
+        private void txtnome_TextChanged(object sender, EventArgs e)
+        {
+            // Pode ser usado para validações em tempo real
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+            // Pode ser removido se não for usado
         }
     }
 }

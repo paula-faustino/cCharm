@@ -43,7 +43,7 @@
             label1.BackColor = SystemColors.ButtonFace;
             label1.Font = new Font("Stencil", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.ForeColor = SystemColors.ActiveCaptionText;
-            label1.Location = new Point(373, 144);
+            label1.Location = new Point(373, 93);
             label1.Name = "label1";
             label1.Size = new Size(548, 32);
             label1.TabIndex = 0;
@@ -56,7 +56,7 @@
             label2.Font = new Font("Stencil", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label2.ForeColor = SystemColors.Control;
             label2.Image = Properties.Resources.ChatGPT_Image_6_de_jun__de_2025__19_11_44;
-            label2.Location = new Point(562, 359);
+            label2.Location = new Point(562, 317);
             label2.Name = "label2";
             label2.Size = new Size(0, 32);
             label2.TabIndex = 1;
@@ -67,18 +67,19 @@
             label3.BackColor = SystemColors.ButtonFace;
             label3.Font = new Font("Calibri", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label3.ForeColor = SystemColors.ActiveCaptionText;
-            label3.Location = new Point(562, 214);
+            label3.Location = new Point(562, 156);
             label3.Name = "label3";
             label3.Size = new Size(182, 26);
             label3.TabIndex = 2;
             label3.Text = "Escolha uma opção:";
+            label3.Click += label3_Click;
             // 
             // button1
             // 
             button1.Font = new Font("Microsoft Sans Serif", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.Location = new Point(808, 309);
+            button1.Location = new Point(864, 352);
             button1.Name = "button1";
-            button1.Size = new Size(113, 82);
+            button1.Size = new Size(253, 70);
             button1.TabIndex = 3;
             button1.Text = "Cadastrar produto";
             button1.UseVisualStyleBackColor = true;
@@ -87,9 +88,9 @@
             // button2
             // 
             button2.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold);
-            button2.Location = new Point(520, 316);
+            button2.Location = new Point(539, 213);
             button2.Name = "button2";
-            button2.Size = new Size(113, 79);
+            button2.Size = new Size(218, 70);
             button2.TabIndex = 4;
             button2.Text = "Entrar";
             button2.UseVisualStyleBackColor = true;
@@ -98,9 +99,9 @@
             // button4
             // 
             button4.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold);
-            button4.Location = new Point(373, 316);
+            button4.Location = new Point(508, 352);
             button4.Name = "button4";
-            button4.Size = new Size(113, 79);
+            button4.Size = new Size(290, 70);
             button4.TabIndex = 6;
             button4.Text = "Cadastrar";
             button4.UseVisualStyleBackColor = true;
@@ -109,9 +110,9 @@
             // button5
             // 
             button5.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold);
-            button5.Location = new Point(665, 316);
+            button5.Location = new Point(182, 352);
             button5.Name = "button5";
-            button5.Size = new Size(113, 79);
+            button5.Size = new Size(283, 70);
             button5.TabIndex = 7;
             button5.Text = "Estoque";
             button5.UseVisualStyleBackColor = true;
@@ -119,9 +120,9 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 17F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1304, 733);
+            ClientSize = new Size(1304, 647);
             Controls.Add(button5);
             Controls.Add(button4);
             Controls.Add(button2);
@@ -131,6 +132,7 @@
             Controls.Add(label1);
             Name = "Form1";
             Text = "v";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }

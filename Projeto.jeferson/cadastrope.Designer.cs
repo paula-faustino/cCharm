@@ -44,18 +44,18 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold);
-            label1.Location = new Point(482, 231);
+            label1.Location = new Point(394, 177);
             label1.Name = "label1";
             label1.Size = new Size(71, 25);
             label1.TabIndex = 0;
             label1.Text = "Nome:";
-           // label1.Click += label1_Click;
+            label1.Click += label1_Click;
             // 
             // label4
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold);
-            label4.Location = new Point(482, 282);
+            label4.Location = new Point(394, 223);
             label4.Name = "label4";
             label4.Size = new Size(71, 25);
             label4.TabIndex = 3;
@@ -64,40 +64,42 @@
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(644, 369);
+            label6.Location = new Point(644, 326);
             label6.Name = "label6";
-            label6.Size = new Size(0, 17);
+            label6.Size = new Size(0, 15);
             label6.TabIndex = 5;
             // 
             // label7
             // 
             label7.AutoSize = true;
             label7.Font = new Font("Stencil", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label7.Location = new Point(585, 135);
+            label7.Location = new Point(487, 60);
             label7.Name = "label7";
             label7.Size = new Size(157, 32);
             label7.TabIndex = 6;
             label7.Text = "CADASTRO";
+            label7.Click += label7_Click;
             // 
             // txtnome
             // 
-            txtnome.Location = new Point(559, 237);
+            txtnome.Location = new Point(482, 223);
             txtnome.Name = "txtnome";
-            txtnome.Size = new Size(213, 25);
+            txtnome.Size = new Size(213, 23);
             txtnome.TabIndex = 7;
+            txtnome.TextChanged += txtnome_TextChanged;
             // 
             // txtsenha
             // 
-            txtsenha.Location = new Point(559, 285);
+            txtsenha.Location = new Point(482, 182);
             txtsenha.Name = "txtsenha";
-            txtsenha.Size = new Size(213, 25);
+            txtsenha.Size = new Size(213, 23);
             txtsenha.TabIndex = 11;
             // 
             // button1
             // 
-            button1.Location = new Point(599, 388);
+            button1.Location = new Point(482, 326);
             button1.Name = "button1";
-            button1.Size = new Size(75, 26);
+            button1.Size = new Size(75, 23);
             button1.TabIndex = 12;
             button1.Text = "Voltar";
             button1.UseVisualStyleBackColor = true;
@@ -105,26 +107,25 @@
             // 
             // button2
             // 
-            button2.Location = new Point(697, 388);
+            button2.Location = new Point(620, 326);
             button2.Name = "button2";
-            button2.Size = new Size(75, 26);
+            button2.Size = new Size(75, 23);
             button2.TabIndex = 13;
             button2.Text = "Avançar";
             button2.UseVisualStyleBackColor = true;
-   
             // 
             // txtcpf
             // 
-            txtcpf.Location = new Point(559, 341);
+            txtcpf.Location = new Point(482, 269);
             txtcpf.Name = "txtcpf";
-            txtcpf.Size = new Size(213, 25);
+            txtcpf.Size = new Size(213, 23);
             txtcpf.TabIndex = 15;
             // 
             // label2
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold);
-            label2.Location = new Point(482, 338);
+            label2.Location = new Point(414, 269);
             label2.Name = "label2";
             label2.Size = new Size(51, 25);
             label2.TabIndex = 14;
@@ -132,9 +133,9 @@
             // 
             // cadastrope
             // 
-            AutoScaleDimensions = new SizeF(7F, 17F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1304, 734);
+            ClientSize = new Size(1304, 648);
             Controls.Add(txtcpf);
             Controls.Add(label2);
             Controls.Add(button2);
@@ -147,7 +148,6 @@
             Controls.Add(label1);
             Name = "cadastrope";
             Text = "cadastrope";
-           // Load += cadastrope_Load;
             ResumeLayout(false);
             PerformLayout();
         }

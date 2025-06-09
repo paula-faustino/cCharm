@@ -1,5 +1,5 @@
-create database trabaio;
-use trabaio;
+create database trabalho;
+use trabalho;
 
 create table if not exists produtos
 ( cod_prod int primary key,
@@ -52,14 +52,18 @@ qtd_prod int,
 produtos_id int,
 responsavel_id int);
 
-create table if not exists clientes 
-( id_cliente int primary key,
-nome_cli varchar (20),
-tipo_cli varchar (20),
-cpf_cli varchar (11),
-cnpj_cli varchar (14),
-tel_cli varchar (9),
-endereco_cli varchar (60));
+CREATE TABLE IF NOT EXISTS clietes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100),
+    tipo VARCHAR(50),
+    cpf VARCHAR(14),
+    cnpj VARCHAR(18),
+    telefone VARCHAR(15),
+    endereco VARCHAR(255)
+);
+
+ALTER TABLE clietes 
+ADD COLUMN senha_cliente VARCHAR(255);
 
 create table if not exists vendas
 ( id_vend int primary key,
@@ -74,7 +78,37 @@ preco_uni_item decimal (10,2),
 produtos_id int,
 vendas_id int);
 
+CREATE TABLE usuarios (
+    id_usuario INT AUTO_INCREMENT PRIMARY KEY,
+    login VARCHAR(50) NOT NULL UNIQUE,
+    senha VARCHAR(255) NOT NULL,
+    nivel_acesso ENUM('usuario', 'admin') DEFAULT 'usuario',
+    ativo BOOLEAN DEFAULT TRUE
+);
 
+ALTER TABLE receitas
+ADD CONSTRAINT fk_receitas_produtos
+FOREIGN KEY (produtos_id) REFERENCES produtos(cod_prod);
 
+ALTER TABLE receitas
+ADD CONSTRAINT fk_receitas_materiais
+FOREIGN KEY (materiais_id) REFERENCES materiais(cod_mat);
+
+ALTER TABLE item_venda
+ADD CONSTRAINT fk_itemvenda_produtos
+FOREIGN KEY (produtos_id) REFERENCES produtos(cod_prod);
+
+ALTER TABLE item_venda
+ADD CONSTRAINT fk_itemvenda_vendas
+FOREIGN KEY (vendas_id) REFERENCES vendas(id_vend);
+
+CREATE INDEX idx_clietes_cpf ON clietes(cpf);
+CREATE INDEX idx_clietes_cnpj ON clietes(cnpj);
+
+CREATE INDEX idx_usuarios_login ON usuarios(login);
+
+CREATE INDEX idx_vendas_data ON vendas(data_vend);
+
+CREATE INDEX idx_producao_data ON producao(data_prod);
 
 
