@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto.jeferson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e594c8eb7592c87a2cb7fa929f073d5ad04f7273")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto.jeferson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projeto.jeferson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
