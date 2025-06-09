@@ -32,9 +32,9 @@
             // 
             // Estoque
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(7F, 17F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1304, 648);
+            ClientSize = new Size(1304, 749);
             Name = "Estoque";
             Text = "Estoque";
             ResumeLayout(false);

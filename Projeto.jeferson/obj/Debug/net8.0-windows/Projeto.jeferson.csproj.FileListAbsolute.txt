@@ -43,3 +43,20 @@ C:\Users\mayar\OneDrive\Área de Trabalho\cCharm\Projeto.jeferson\obj\Debug\net8
 C:\Users\mayar\OneDrive\Área de Trabalho\cCharm\Projeto.jeferson\obj\Debug\net8.0-windows\Projeto.jeferson.pdb
 C:\Users\mayar\OneDrive\Área de Trabalho\cCharm\Projeto.jeferson\obj\Debug\net8.0-windows\Projeto.jeferson.genruntimeconfig.cache
 C:\Users\mayar\OneDrive\Área de Trabalho\cCharm\Projeto.jeferson\obj\Debug\net8.0-windows\ref\Projeto.jeferson.dll
+C:\Users\aluno\Desktop\cCharm\Projeto.jeferson\obj\Debug\net8.0-windows\Projeto.jeferson.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\cCharm\Projeto.jeferson\obj\Debug\net8.0-windows\Projeto.jeferson.Cadastrarpro.resources
+C:\Users\aluno\Desktop\cCharm\Projeto.jeferson\obj\Debug\net8.0-windows\Projeto.jeferson.cadastrope.resources
+C:\Users\aluno\Desktop\cCharm\Projeto.jeferson\obj\Debug\net8.0-windows\Projeto.jeferson.Estoque.resources
+C:\Users\aluno\Desktop\cCharm\Projeto.jeferson\obj\Debug\net8.0-windows\Projeto.jeferson.Form1.resources
+C:\Users\aluno\Desktop\cCharm\Projeto.jeferson\obj\Debug\net8.0-windows\Projeto.jeferson.Login.resources
+C:\Users\aluno\Desktop\cCharm\Projeto.jeferson\obj\Debug\net8.0-windows\Projeto.jeferson.Properties.Resources.resources
+C:\Users\aluno\Desktop\cCharm\Projeto.jeferson\obj\Debug\net8.0-windows\Projeto.jeferson.Selecionar.resources
+C:\Users\aluno\Desktop\cCharm\Projeto.jeferson\obj\Debug\net8.0-windows\Projeto.jeferson.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\cCharm\Projeto.jeferson\obj\Debug\net8.0-windows\Projeto.jeferson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\cCharm\Projeto.jeferson\obj\Debug\net8.0-windows\Projeto.jeferson.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\cCharm\Projeto.jeferson\obj\Debug\net8.0-windows\Projeto.jeferson.AssemblyInfo.cs
+C:\Users\aluno\Desktop\cCharm\Projeto.jeferson\obj\Debug\net8.0-windows\Projeto.jeferson.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\cCharm\Projeto.jeferson\obj\Debug\net8.0-windows\Projeto.jeferson.sourcelink.json
+C:\Users\aluno\Desktop\cCharm\Projeto.jeferson\obj\Debug\net8.0-windows\Projeto.jeferson.dll
+C:\Users\aluno\Desktop\cCharm\Projeto.jeferson\obj\Debug\net8.0-windows\refint\Projeto.jeferson.dll
+C:\Users\aluno\Desktop\cCharm\Projeto.jeferson\obj\Debug\net8.0-windows\Projeto.jeferson.pdb
