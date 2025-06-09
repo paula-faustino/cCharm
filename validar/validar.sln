@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "validar", "validar\validar.csproj", "{6E3921CF-87E4-4C2B-BC7D-41D938D667EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E3921CF-87E4-4C2B-BC7D-41D938D667EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E3921CF-87E4-4C2B-BC7D-41D938D667EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E3921CF-87E4-4C2B-BC7D-41D938D667EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E3921CF-87E4-4C2B-BC7D-41D938D667EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {712BFD3A-E334-437A-AD76-10F6C1A53FE5}
+	EndGlobalSection
+EndGlobal

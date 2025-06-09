@@ -1,0 +1,6 @@
+C:\Users\pc\Desktop\validar\validar\bin\Debug\validar.dll
+C:\Users\pc\Desktop\validar\validar\bin\Debug\validar.pdb
+C:\Users\pc\Desktop\validar\validar\obj\Debug\validar.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\validar\validar\obj\Debug\validar.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\validar\validar\obj\Debug\validar.dll
+C:\Users\pc\Desktop\validar\validar\obj\Debug\validar.pdb
