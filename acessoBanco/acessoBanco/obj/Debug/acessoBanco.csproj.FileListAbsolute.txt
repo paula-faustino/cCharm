@@ -1,0 +1,6 @@
+C:\Users\pc\Desktop\acessoBanco\acessoBanco\bin\Debug\acessoBanco.dll
+C:\Users\pc\Desktop\acessoBanco\acessoBanco\bin\Debug\acessoBanco.pdb
+C:\Users\pc\Desktop\acessoBanco\acessoBanco\obj\Debug\acessoBanco.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\acessoBanco\acessoBanco\obj\Debug\acessoBanco.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\acessoBanco\acessoBanco\obj\Debug\acessoBanco.dll
+C:\Users\pc\Desktop\acessoBanco\acessoBanco\obj\Debug\acessoBanco.pdb
