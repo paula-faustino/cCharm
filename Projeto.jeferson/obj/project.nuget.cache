@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QxwByINuvic=",
+  "dgSpecHash": "cjHcAlZwor4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mayar\\OneDrive\\Área de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Projeto.jeferson.csproj",
+  "projectFilePath": "C:\\Users\\mayar\\OneDrive\\Área de Trabalho\\cCharm\\Projeto.jeferson\\Projeto.jeferson.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mayar\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\mayar\\.nuget\\packages\\google.protobuf\\3.30.0\\google.protobuf.3.30.0.nupkg.sha512",

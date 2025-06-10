@@ -1615,11 +1615,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mayar\\OneDrive\\Área de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Projeto.jeferson.csproj",
+      "projectUniqueName": "C:\\Users\\mayar\\OneDrive\\Área de Trabalho\\cCharm\\Projeto.jeferson\\Projeto.jeferson.csproj",
       "projectName": "Projeto.jeferson",
-      "projectPath": "C:\\Users\\mayar\\OneDrive\\Área de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Projeto.jeferson.csproj",
+      "projectPath": "C:\\Users\\mayar\\OneDrive\\Área de Trabalho\\cCharm\\Projeto.jeferson\\Projeto.jeferson.csproj",
       "packagesPath": "C:\\Users\\mayar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mayar\\OneDrive\\Área de Trabalho\\cCharm - Copia\\Projeto.jeferson\\obj\\",
+      "outputPath": "C:\\Users\\mayar\\OneDrive\\Área de Trabalho\\cCharm\\Projeto.jeferson\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

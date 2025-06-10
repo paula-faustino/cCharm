@@ -30,7 +30,6 @@
         {
             textBox1 = new TextBox();
             Carregar = new Button();
-            label1 = new Label();
             SuspendLayout();
             // 
             // textBox1
@@ -52,21 +51,11 @@
             Carregar.UseVisualStyleBackColor = true;
             Carregar.Click += button1_Click;
             // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.Location = new Point(410, 39);
-            label1.Name = "label1";
-            label1.Size = new Size(50, 20);
-            label1.TabIndex = 2;
-            label1.Text = "label1";
-            // 
             // Selecionar
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1490, 864);
-            Controls.Add(label1);
             Controls.Add(Carregar);
             Controls.Add(textBox1);
             Margin = new Padding(3, 4, 3, 4);
@@ -80,6 +69,5 @@
 
         private TextBox textBox1;
         private Button Carregar;
-        private Label label1;
     }
 }

@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|c:\\users\\mayar\\onedrive\\\u00E1rea de trabalho\\ccharm - copia\\projeto.jeferson\\selecionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\projeto.jeferson\\selecionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\selecionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -78,8 +78,7 @@
               "RelativeToolTip": "Projeto.jeferson\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T22:09:20.567Z",
-              "IsPinned": true,
-              "EditorCaption": " [Projeto]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -89,7 +88,7 @@
               "RelativeDocumentMoniker": "Projeto.jeferson\\Conexao.cs",
               "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Conexao.cs",
               "RelativeToolTip": "Projeto.jeferson\\Conexao.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwAkAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T03:46:31.191Z",
               "IsPinned": true,
@@ -106,8 +105,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T04:00:15.607Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -118,8 +116,7 @@
               "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Selecionar.cs [Projeto]",
               "RelativeToolTip": "Projeto.jeferson\\Selecionar.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T04:48:15.503Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-06-10T04:48:15.503Z"
             },
             {
               "$type": "Document",
@@ -131,8 +128,7 @@
               "RelativeToolTip": "Projeto.jeferson\\Selecionar.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T04:43:14.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T04:43:14.027Z"
             },
             {
               "$type": "Document",
@@ -144,8 +140,7 @@
               "RelativeToolTip": "Projeto.jeferson\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAtwAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T23:06:27.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T23:06:27.056Z"
             },
             {
               "$type": "Document",
@@ -157,8 +152,7 @@
               "RelativeToolTip": "Projeto.jeferson\\Selecionar.Designer.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T01:20:38.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T01:20:38.267Z"
             },
             {
               "$type": "Document",
@@ -170,8 +164,7 @@
               "RelativeToolTip": "Projeto.jeferson\\Login.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T23:20:08.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T23:20:08.07Z"
             },
             {
               "$type": "Document",
@@ -183,8 +176,7 @@
               "RelativeToolTip": "Projeto.jeferson\\cadastrope.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T04:12:58.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T04:12:58.305Z"
             },
             {
               "$type": "Document",
@@ -221,8 +213,7 @@
               "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Cadastrarpro.cs [Projeto]",
               "RelativeToolTip": "Projeto.jeferson\\Cadastrarpro.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T23:12:28.677Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-06-06T23:12:28.677Z"
             },
             {
               "$type": "Document",
@@ -233,8 +224,7 @@
               "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\cadastrope.cs [Projeto]",
               "RelativeToolTip": "Projeto.jeferson\\cadastrope.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T00:43:32.197Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-06-10T00:43:32.197Z"
             },
             {
               "$type": "Document",
@@ -245,8 +235,7 @@
               "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Selecionar.resx",
               "RelativeToolTip": "Projeto.jeferson\\Selecionar.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-06-10T01:20:47.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T01:20:47.381Z"
             }
           ]
         }

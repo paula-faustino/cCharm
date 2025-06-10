@@ -55,7 +55,6 @@
             label2.BackColor = SystemColors.WindowText;
             label2.Font = new Font("Stencil", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label2.ForeColor = SystemColors.Control;
-            label2.Image = Properties.Resources.ChatGPT_Image_6_de_jun__de_2025__19_11_44;
             label2.Location = new Point(562, 317);
             label2.Name = "label2";
             label2.Size = new Size(0, 32);
