@@ -1,4 +1,3 @@
-drop database if exists trabalho;
 create database trabalho;
 use trabalho;
 
