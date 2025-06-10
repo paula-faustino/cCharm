@@ -28,18 +28,58 @@
         /// </summary>
         private void InitializeComponent()
         {
+            textBox1 = new TextBox();
+            Carregar = new Button();
+            label1 = new Label();
             SuspendLayout();
+            // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(85, 87);
+            textBox1.Multiline = true;
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(671, 49);
+            textBox1.TabIndex = 0;
+            textBox1.TextChanged += textBox1_TextChanged;
+            // 
+            // Carregar
+            // 
+            Carregar.Location = new Point(100, 171);
+            Carregar.Name = "Carregar";
+            Carregar.Size = new Size(187, 34);
+            Carregar.TabIndex = 1;
+            Carregar.Text = "Carregar";
+            Carregar.UseVisualStyleBackColor = true;
+            Carregar.Click += button1_Click;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(410, 39);
+            label1.Name = "label1";
+            label1.Size = new Size(50, 20);
+            label1.TabIndex = 2;
+            label1.Text = "label1";
             // 
             // Selecionar
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1304, 648);
+            ClientSize = new Size(1490, 864);
+            Controls.Add(label1);
+            Controls.Add(Carregar);
+            Controls.Add(textBox1);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Selecionar";
             Text = "Selecionar";
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private TextBox textBox1;
+        private Button Carregar;
+        private Label label1;
     }
 }

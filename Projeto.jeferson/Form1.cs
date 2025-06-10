@@ -6,7 +6,7 @@ namespace Projeto.jeferson
         {
             InitializeComponent();
         }
-
+        //ShowDialog serve para criar uma pagina
         private void button4_Click(object sender, EventArgs e)
         {
             cadastrope cadastro = new cadastrope();

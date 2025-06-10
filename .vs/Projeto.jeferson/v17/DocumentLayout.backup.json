@@ -1,50 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aluno\\Desktop\\cCharm\\",
+  "WorkspaceRootPath": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|c:\\users\\aluno\\desktop\\ccharm\\projeto.jeferson\\cadastrope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\cadastrope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|c:\\users\\mayar\\onedrive\\\u00E1rea de trabalho\\ccharm - copia\\projeto.jeferson\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|c:\\users\\aluno\\desktop\\ccharm\\projeto.jeferson\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|c:\\users\\aluno\\desktop\\ccharm\\projeto.jeferson\\validar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\validar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|c:\\users\\aluno\\desktop\\ccharm\\projeto.jeferson\\conex\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\conex\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|c:\\users\\aluno\\desktop\\ccharm\\projeto.jeferson\\cadastrope.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\cadastrope.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|C:\\Users\\aluno\\Desktop\\cCharm\\projeto.jeferson\\selecionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\selecionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|c:\\users\\aluno\\desktop\\ccharm\\projeto.jeferson\\cadastrarpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\cadastrarpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|c:\\users\\aluno\\desktop\\ccharm\\projeto.jeferson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|C:\\Users\\aluno\\Desktop\\cCharm\\projeto.jeferson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\projeto.jeferson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|c:\\users\\aluno\\desktop\\ccharm\\projeto.jeferson\\cadastrarpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|c:\\users\\mayar\\onedrive\\\u00E1rea de trabalho\\ccharm - copia\\projeto.jeferson\\selecionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\selecionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|c:\\users\\mayar\\onedrive\\\u00E1rea de trabalho\\ccharm - copia\\projeto.jeferson\\selecionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\selecionar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|c:\\users\\mayar\\onedrive\\\u00E1rea de trabalho\\ccharm - copia\\projeto.jeferson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|c:\\users\\mayar\\onedrive\\\u00E1rea de trabalho\\ccharm - copia\\projeto.jeferson\\carregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\carregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|c:\\users\\mayar\\onedrive\\\u00E1rea de trabalho\\ccharm - copia\\projeto.jeferson\\selecionar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\selecionar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|c:\\users\\mayar\\onedrive\\\u00E1rea de trabalho\\ccharm - copia\\projeto.jeferson\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|c:\\users\\mayar\\onedrive\\\u00E1rea de trabalho\\ccharm - copia\\projeto.jeferson\\cadastrope.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\cadastrope.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|c:\\users\\mayar\\onedrive\\\u00E1rea de trabalho\\ccharm - copia\\projeto.jeferson\\cadastrarpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\cadastrarpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|C:\\Users\\aluno\\Desktop\\cCharm\\projeto.jeferson\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|c:\\users\\mayar\\onedrive\\\u00E1rea de trabalho\\ccharm - copia\\projeto.jeferson\\cadastrope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\cadastrope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\projeto.jeferson\\cadastrarpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\cadastrarpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\projeto.jeferson\\cadastrope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\cadastrope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|c:\\users\\mayar\\onedrive\\\u00E1rea de trabalho\\ccharm - copia\\projeto.jeferson\\selecionar.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4E28E317-4936-46F7-98CA-4229CC6D3899}|Projeto.jeferson\\Projeto.jeferson.csproj|solutionrelative:projeto.jeferson\\selecionar.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,29 +66,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\Form1.cs",
-              "RelativeDocumentMoniker": "Projeto.jeferson\\Form1.cs",
-              "ToolTip": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\Form1.cs",
-              "RelativeToolTip": "Projeto.jeferson\\Form1.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAqwDIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T23:06:27.056Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Form1.cs",
               "RelativeDocumentMoniker": "Projeto.jeferson\\Form1.cs",
-              "ToolTip": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\Form1.cs [Projeto]",
+              "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Form1.cs [Projeto]",
               "RelativeToolTip": "Projeto.jeferson\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T22:09:20.567Z",
@@ -85,37 +83,142 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Conex\u00E3o.cs",
-              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\Conex\u00E3o.cs",
-              "RelativeDocumentMoniker": "Projeto.jeferson\\Conex\u00E3o.cs",
-              "ToolTip": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\Conex\u00E3o.cs*",
-              "RelativeToolTip": "Projeto.jeferson\\Conex\u00E3o.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Conexao.cs",
+              "RelativeDocumentMoniker": "Projeto.jeferson\\Conexao.cs",
+              "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Conexao.cs",
+              "RelativeToolTip": "Projeto.jeferson\\Conexao.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T20:48:33.892Z",
+              "WhenOpened": "2025-06-10T03:46:31.191Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "carregar.cs",
+              "DocumentMoniker": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\carregar.cs",
+              "RelativeDocumentMoniker": "Projeto.jeferson\\carregar.cs",
+              "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\carregar.cs",
+              "RelativeToolTip": "Projeto.jeferson\\carregar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T04:00:15.607Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Validar.cs",
-              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\Validar.cs",
-              "RelativeDocumentMoniker": "Projeto.jeferson\\Validar.cs",
-              "ToolTip": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\Validar.cs*",
-              "RelativeToolTip": "Projeto.jeferson\\Validar.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Title": "Selecionar.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Selecionar.cs",
+              "RelativeDocumentMoniker": "Projeto.jeferson\\Selecionar.cs",
+              "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Selecionar.cs [Projeto]",
+              "RelativeToolTip": "Projeto.jeferson\\Selecionar.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T20:03:58.419Z",
+              "WhenOpened": "2025-06-10T04:48:15.503Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Selecionar.cs",
+              "DocumentMoniker": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Selecionar.cs",
+              "RelativeDocumentMoniker": "Projeto.jeferson\\Selecionar.cs",
+              "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Selecionar.cs",
+              "RelativeToolTip": "Projeto.jeferson\\Selecionar.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T04:43:14.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Form1.cs",
+              "RelativeDocumentMoniker": "Projeto.jeferson\\Form1.cs",
+              "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Form1.cs",
+              "RelativeToolTip": "Projeto.jeferson\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:06:27.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Cadastrarpro.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\Cadastrarpro.cs",
+              "Title": "Selecionar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Selecionar.Designer.cs",
+              "RelativeDocumentMoniker": "Projeto.jeferson\\Selecionar.Designer.cs",
+              "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Selecionar.Designer.cs",
+              "RelativeToolTip": "Projeto.jeferson\\Selecionar.Designer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:20:38.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Login.cs",
+              "RelativeDocumentMoniker": "Projeto.jeferson\\Login.cs",
+              "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Login.cs",
+              "RelativeToolTip": "Projeto.jeferson\\Login.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:20:08.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "cadastrope.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\cadastrope.Designer.cs",
+              "RelativeDocumentMoniker": "Projeto.jeferson\\cadastrope.Designer.cs",
+              "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\cadastrope.Designer.cs",
+              "RelativeToolTip": "Projeto.jeferson\\cadastrope.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T04:12:58.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "cadastrope.cs",
+              "DocumentMoniker": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\cadastrope.cs",
+              "RelativeDocumentMoniker": "Projeto.jeferson\\cadastrope.cs",
+              "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\cadastrope.cs",
+              "RelativeToolTip": "Projeto.jeferson\\cadastrope.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:09:01.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cadastrarpro.cs",
+              "DocumentMoniker": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Cadastrarpro.cs",
               "RelativeDocumentMoniker": "Projeto.jeferson\\Cadastrarpro.cs",
-              "ToolTip": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\Cadastrarpro.cs [Projeto]",
+              "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Cadastrarpro.cs",
+              "RelativeToolTip": "Projeto.jeferson\\Cadastrarpro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:45:24.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cadastrarpro.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Cadastrarpro.cs",
+              "RelativeDocumentMoniker": "Projeto.jeferson\\Cadastrarpro.cs",
+              "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Cadastrarpro.cs [Projeto]",
               "RelativeToolTip": "Projeto.jeferson\\Cadastrarpro.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T23:12:28.677Z",
@@ -123,78 +226,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "cadastrope.cs",
-              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\cadastrope.cs",
+              "DocumentIndex": 12,
+              "Title": "cadastrope.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\cadastrope.cs",
               "RelativeDocumentMoniker": "Projeto.jeferson\\cadastrope.cs",
-              "ToolTip": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\cadastrope.cs*",
-              "RelativeToolTip": "Projeto.jeferson\\cadastrope.cs*",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowFMAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\cadastrope.cs [Projeto]",
+              "RelativeToolTip": "Projeto.jeferson\\cadastrope.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T23:09:01.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "cadastrope.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\cadastrope.Designer.cs",
-              "RelativeDocumentMoniker": "Projeto.jeferson\\cadastrope.Designer.cs",
-              "ToolTip": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\cadastrope.Designer.cs",
-              "RelativeToolTip": "Projeto.jeferson\\cadastrope.Designer.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAowJ4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T23:40:22.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Selecionar.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\Selecionar.cs",
-              "RelativeDocumentMoniker": "Projeto.jeferson\\Selecionar.cs",
-              "ToolTip": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\Selecionar.cs [Projeto]",
-              "RelativeToolTip": "Projeto.jeferson\\Selecionar.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T23:13:27.116Z",
+              "WhenOpened": "2025-06-10T00:43:32.197Z",
               "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\Login.cs",
-              "RelativeDocumentMoniker": "Projeto.jeferson\\Login.cs",
-              "ToolTip": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\Login.cs",
-              "RelativeToolTip": "Projeto.jeferson\\Login.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAowDQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T23:20:08.07Z",
+              "DocumentIndex": 13,
+              "Title": "Selecionar.resx",
+              "DocumentMoniker": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Selecionar.resx",
+              "RelativeDocumentMoniker": "Projeto.jeferson\\Selecionar.resx",
+              "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm - Copia\\Projeto.jeferson\\Selecionar.resx",
+              "RelativeToolTip": "Projeto.jeferson\\Selecionar.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-10T01:20:47.381Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Cadastrarpro.cs",
-              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\Cadastrarpro.cs",
-              "RelativeDocumentMoniker": "Projeto.jeferson\\Cadastrarpro.cs",
-              "ToolTip": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\Cadastrarpro.cs",
-              "RelativeToolTip": "Projeto.jeferson\\Cadastrarpro.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAA8wDMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T19:45:24.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Estoque.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\Estoque.cs",
-              "RelativeDocumentMoniker": "Projeto.jeferson\\Estoque.cs",
-              "ToolTip": "C:\\Users\\aluno\\Desktop\\cCharm\\Projeto.jeferson\\Estoque.cs [Projeto]",
-              "RelativeToolTip": "Projeto.jeferson\\Estoque.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T23:12:52.01Z"
             }
           ]
         }

@@ -59,15 +59,5 @@ namespace Projeto.jeferson.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ChatGPT_Image_6_de_jun__de_2025__19_11_44 {
-            get {
-                object obj = ResourceManager.GetObject("ChatGPT Image 6 de jun. de 2025, 19_11_44", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }

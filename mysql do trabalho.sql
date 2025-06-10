@@ -1,17 +1,28 @@
+drop database if exists trabalho;
 create database trabalho;
 use trabalho;
 
 create table if not exists produtos
 ( cod_prod int primary key,
-nome_prod varchar (20),
+nome_prod varchar (255),
 tipo_prod decimal (10.2),
 peso_prod decimal (10,2), 
 preco_unitario decimal (10,2),
 validade_prod date);
 
+INSERT INTO produtos VALUES 
+(1, 'Chocolate ao Leite', 1.00, 0.10, 5.50, '2025-12-31'),
+(2, 'Chocolate Amargo', 1.01, 0.10, 6.00, '2025-12-31'),
+(3, 'Chocolate Branco',  1.02, 0.10, 5.75, '2025-12-31'),
+(4, 'Barra Recheada', 2.00, 0.12, 6.90, '2025-11-30'),
+(5, 'Trufa de Morango',2.01, 0.05, 3.20, '2025-10-15'),
+(6, 'Cacau em Pó 100g', 3.00, 0.10, 4.50, '2026-01-15'),
+(7, 'Tablete Meio Amargo 70%',  1.03, 0.12, 7.20, '2025-12-01');
+
+
 create table if not exists materiais 
 ( cod_mat int primary key,
-nome_mat varchar (20),
+nome_mat varchar (255),
 unidade_medida varchar (20),
 validade_mat date,
 fornecedor_id int,
@@ -19,7 +30,7 @@ qtd_estoque decimal (10,2));
 
 create table if not exists fornecedor 
 ( id_forn int primary key,
-nome_forn varchar (20),
+nome_forn varchar (255),
 cnpj_forn varchar (14),
 tel_forn varchar (9),
 email_forn varchar (16),
@@ -33,14 +44,14 @@ quantidade_rec decimal (10,2));
 
 create table if not exists cargos 
 ( id_carg int primary key,
-setor_carg varchar (20),
+setor_carg varchar (255),
 horas_carg time,
-nome_carg varchar (20));
+nome_carg varchar (255));
 
 create table if not exists funcionario
 ( id_func int primary key,
-nome_func varchar (20),
-cargo_func varchar (20),
+nome_func varchar (255),
+cargo_func varchar (255),
 data_func date,
 salario_func int,
 cargos_id int);
@@ -86,6 +97,8 @@ CREATE TABLE usuarios (
     ativo BOOLEAN DEFAULT TRUE
 );
 
+select * from produtos;
+
 ALTER TABLE receitas
 ADD CONSTRAINT fk_receitas_produtos
 FOREIGN KEY (produtos_id) REFERENCES produtos(cod_prod);
@@ -110,5 +123,6 @@ CREATE INDEX idx_usuarios_login ON usuarios(login);
 CREATE INDEX idx_vendas_data ON vendas(data_vend);
 
 CREATE INDEX idx_producao_data ON producao(data_prod);
+
 
 
