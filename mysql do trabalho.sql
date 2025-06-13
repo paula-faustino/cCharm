@@ -1,3 +1,4 @@
+drop database if exists trabalho;
 create database trabalho;
 use trabalho;
 
@@ -8,6 +9,16 @@ tipo_prod decimal (10.2),
 peso_prod decimal (10,2), 
 preco_unitario decimal (10,2),
 validade_prod date);
+
+INSERT INTO produtos VALUES 
+(1, 'Chocolate ao Leite', 1.00, 0.10, 5.50, '2025-12-31'),
+(2, 'Chocolate Amargo', 1.01, 0.10, 6.00, '2025-12-31'),
+(3, 'Chocolate Branco',  1.02, 0.10, 5.75, '2025-12-31'),
+(4, 'Barra Recheada', 2.00, 0.12, 6.90, '2025-11-30'),
+(5, 'Trufa de Morango',2.01, 0.05, 3.20, '2025-10-15'),
+(6, 'Cacau em Pó 100g', 3.00, 0.10, 4.50, '2026-01-15'),
+(7, 'Tablete Meio Amargo 70%',  1.03, 0.12, 7.20, '2025-12-01');
+
 
 create table if not exists materiais 
 ( cod_mat int primary key,
@@ -62,6 +73,9 @@ CREATE TABLE IF NOT EXISTS clietes (
     endereco VARCHAR(255)
 );
 
+ALTER TABLE clietes 
+ADD COLUMN senha_cliente VARCHAR(255);
+
 create table if not exists vendas
 ( id_vend int primary key,
 data_vend date,
@@ -84,4 +98,31 @@ CREATE TABLE usuarios (
 );
 
 select * from produtos;
+
+ALTER TABLE receitas
+ADD CONSTRAINT fk_receitas_produtos
+FOREIGN KEY (produtos_id) REFERENCES produtos(cod_prod);
+
+ALTER TABLE receitas
+ADD CONSTRAINT fk_receitas_materiais
+FOREIGN KEY (materiais_id) REFERENCES materiais(cod_mat);
+
+ALTER TABLE item_venda
+ADD CONSTRAINT fk_itemvenda_produtos
+FOREIGN KEY (produtos_id) REFERENCES produtos(cod_prod);
+
+ALTER TABLE item_venda
+ADD CONSTRAINT fk_itemvenda_vendas
+FOREIGN KEY (vendas_id) REFERENCES vendas(id_vend);
+
+CREATE INDEX idx_clietes_cpf ON clietes(cpf);
+CREATE INDEX idx_clietes_cnpj ON clietes(cnpj);
+
+CREATE INDEX idx_usuarios_login ON usuarios(login);
+
+CREATE INDEX idx_vendas_data ON vendas(data_vend);
+
+CREATE INDEX idx_producao_data ON producao(data_prod);
+
+
 
