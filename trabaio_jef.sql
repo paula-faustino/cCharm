@@ -39,18 +39,12 @@ horas_carg time,
 nome_carg varchar (20));
 
 create table if not exists funcionario
-( id_func int auto_increment primary key,
+( id_func int primary key,
 nome_func varchar (20),
-cpf_cli varchar (11),
-sexo_cli varchar (14),
 cargo_func varchar (20),
-tel_cli varchar (11),
-endereco_cli varchar (60),
 data_func date,
 salario_func int,
 cargos_id int);
-
-select*from funcionario;
 
 create table if not exists producao
 ( id_prod int primary key,
@@ -61,16 +55,14 @@ responsavel_id int);
 
 create table if not exists clientes 
 ( id_cliente int primary key ,
-nome_cli varchar (45),
+nome_cli varchar (45) null,
 cpf_cli varchar (11),
-sexo_cli varchar (14),
-tel_cli varchar (11),
+cnpj_cli varchar (14),
+tel_cli varchar (9),
 endereco_cli varchar (60));
 
 insert into clientes values 
 (1,'jose',12345678901,12345678901234,123456789,'rua jose zara');
-
-SHOW COLUMNS FROM clientes;
 
 
 create table if not exists vendas
