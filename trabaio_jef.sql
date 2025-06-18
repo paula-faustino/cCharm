@@ -18,7 +18,7 @@ create table if not exists fornecedor
 ( id_forn int auto_increment primary key,
 nome_forn varchar (20),
 cnpj_forn varchar (14),
-tel_forn varchar (11),
+tel_forn varchar (20),
 email_forn varchar (16),
 endereco_forn varchar (60));
 select* from fornecedor ;
@@ -50,12 +50,12 @@ nome_carg varchar (20));
 create table if not exists funcionario
 ( id_func int auto_increment primary key,
 nome_func varchar (200),
-cpf_func varchar (11),
+cpf_func varchar (20),
 sexo_func varchar (14),
 cargo_func varchar (20),
-tel_func varchar (11),
+tel_func varchar (20),
 endereco_func varchar (60),
-data_func date default CURRENT_DATE,
+data_func date,
 salario_func int,
 cargos_id int);
 
@@ -71,9 +71,9 @@ responsavel_id int);
 create table if not exists clientes 
 ( id_cliente int primary key ,
 nome_cli varchar (45),
-cpf_cli varchar (11),
+cpf_cli varchar (18),
 sexo_cli varchar (14),
-tel_cli varchar (11),
+tel_cli varchar (20),
 endereco_cli varchar (60));
 
 insert into clientes values 
