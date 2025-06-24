@@ -16,6 +16,9 @@
     <Reference Include="acessoBanco">
       <HintPath>..\..\acessoBanco\acessoBanco\bin\Debug\acessoBanco.dll</HintPath>
     </Reference>
+    <Reference Include="Programa_gerenciador_DLL">
+      <HintPath>..\Programa_gerenciador_DLL\Programa_gerenciador_DLL\obj\Debug\Programa_gerenciador_DLL.dll</HintPath>
+    </Reference>
     <Reference Include="validar">
       <HintPath>..\..\validar\validar\bin\Debug\validar.dll</HintPath>
     </Reference>

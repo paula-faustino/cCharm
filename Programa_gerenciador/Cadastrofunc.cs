@@ -8,6 +8,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Programa_gerenciador_DLL;
+
 
 namespace Programa_gerenciador
 {
@@ -25,6 +27,7 @@ namespace Programa_gerenciador
         }
         private void btnSalvar_Click(object sender, EventArgs e)
         {
+       
             try
             {
                 var nome = textBox1.Text;
@@ -33,43 +36,23 @@ namespace Programa_gerenciador
                 var telefone = maskedTextBox2.Text;
                 var endereco = maskedTextBox2.Text;
 
-
                 if (string.IsNullOrWhiteSpace(nome) || string.IsNullOrWhiteSpace(cpf))
                 {
                     MessageBox.Show("Preencha pelo menos nome e CPF.");
                     return;
                 }
 
-                var strConexao = "server=localhost;uid=root;pwd=;database=trabaio;";
-                using (var conexao = new MySqlConnection(strConexao))
-                {
-                    conexao.Open();
+                FuncionarioDLL funcDAL = new FuncionarioDLL ();
+                funcDAL.SalvarFuncionario(nome, cpf, sexo, telefone, endereco);
 
-                    var sql = @"INSERT INTO funcionario
-                        (nome_func, cpf_func, sexo_func, tel_func, endereco_func)
-                        VALUES (@nome_func, @cpf_func, @sexo_func, @tel_func, @endereco_func)";
-
-                    using (var cmd = new MySqlCommand(sql, conexao))
-                    {
-                        cmd.Parameters.AddWithValue("@nome_func", nome);
-                        cmd.Parameters.AddWithValue("@cpf_func", cpf);
-                        cmd.Parameters.AddWithValue("@sexo_func", sexo);
-                        cmd.Parameters.AddWithValue("@tel_func", telefone);
-                        cmd.Parameters.AddWithValue("@endereco_func", endereco);
-
-                        cmd.ExecuteNonQuery();
-                    }
-                }
-
-                MessageBox.Show("Funcionario salvo com sucesso!");
+                MessageBox.Show("Funcionário salvo com sucesso!");
                 LimparCampos();
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Erro ao salvar o fucionario: " + ex.Message);
+                MessageBox.Show("Erro ao salvar o funcionário: " + ex.Message);
             }
         }
-
         private void LimparCampos()
         {
             textBox1.Clear();

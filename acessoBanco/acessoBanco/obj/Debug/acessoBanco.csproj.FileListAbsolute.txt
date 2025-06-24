@@ -4,3 +4,7 @@ C:\Users\pc\Desktop\acessoBanco\acessoBanco\obj\Debug\acessoBanco.csproj.Assembl
 C:\Users\pc\Desktop\acessoBanco\acessoBanco\obj\Debug\acessoBanco.csproj.CoreCompileInputs.cache
 C:\Users\pc\Desktop\acessoBanco\acessoBanco\obj\Debug\acessoBanco.dll
 C:\Users\pc\Desktop\acessoBanco\acessoBanco\obj\Debug\acessoBanco.pdb
+C:\Users\mayar\OneDrive\Área de Trabalho\cCharm\acessoBanco\acessoBanco\obj\Debug\acessoBanco.csproj.AssemblyReference.cache
+C:\Users\mayar\OneDrive\Área de Trabalho\cCharm\acessoBanco\acessoBanco\obj\Debug\acessoBanco.csproj.CoreCompileInputs.cache
+C:\Users\mayar\OneDrive\Área de Trabalho\cCharm\acessoBanco\acessoBanco\obj\Debug\acessoBanco.dll
+C:\Users\mayar\OneDrive\Área de Trabalho\cCharm\acessoBanco\acessoBanco\obj\Debug\acessoBanco.pdb

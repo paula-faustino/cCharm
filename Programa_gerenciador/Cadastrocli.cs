@@ -9,6 +9,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Net.Mime.MediaTypeNames;
+using Programa_gerenciador_DLL;
+
 
 namespace Programa_gerenciador
 {
@@ -23,6 +25,7 @@ namespace Programa_gerenciador
         {
             Close();
         }
+
         private void btnSalvar_Click(object sender, EventArgs e)
         {
             try
@@ -40,27 +43,8 @@ namespace Programa_gerenciador
                     return;
                 }
 
-                var strConexao = "server=localhost;uid=root;pwd=;database=trabaio;";
-                using (var conexao = new MySqlConnection(strConexao))
-                {
-                    conexao.Open();
-
-                    var sql = @"INSERT INTO clientes 
-                        (id_cliente, nome_cli, cpf_cli, sexo_cli, tel_cli, endereco_cli)
-                        VALUES (@id, @nome_cli, @cpf_cli, @sexo_cli, @tel_cli, @endereco_cli)";
-
-                    using (var cmd = new MySqlCommand(sql, conexao))
-                    {
-                        cmd.Parameters.AddWithValue("@id", id);
-                        cmd.Parameters.AddWithValue("@nome_cli", nome_cli);
-                        cmd.Parameters.AddWithValue("@cpf_cli", cpf);
-                        cmd.Parameters.AddWithValue("@sexo_cli", sexo);
-                        cmd.Parameters.AddWithValue("@tel_cli", telefone);
-                        cmd.Parameters.AddWithValue("@endereco_cli", endereco);
-
-                        cmd.ExecuteNonQuery();
-                    }
-                }
+                ClienteDAL clienteDAL = new ClienteDAL();
+                clienteDAL.SalvarCliente(id, nome_cli, cpf, sexo, telefone, endereco);
 
                 MessageBox.Show("Cliente salvo com sucesso!");
                 LimparCampos();
@@ -80,9 +64,6 @@ namespace Programa_gerenciador
             maskedTextBox2.Clear();
             maskedTextBox2.Clear();
         }
-
-
-
         private void txtid_TextChanged(object sender, EventArgs e)
         {
         }

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05A4E2B5-F2D5-41C7-9C84-44EBB5327825}|Programa_gerenciador\\Programa_gerenciador.csproj|c:\\users\\mayar\\onedrive\\\u00E1rea de trabalho\\ccharm\\programa_gerenciador\\cadastrofunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05A4E2B5-F2D5-41C7-9C84-44EBB5327825}|Programa_gerenciador\\Programa_gerenciador.csproj|solutionrelative:programa_gerenciador\\cadastrofunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05A4E2B5-F2D5-41C7-9C84-44EBB5327825}|Programa_gerenciador\\Programa_gerenciador.csproj|c:\\users\\mayar\\onedrive\\\u00E1rea de trabalho\\ccharm\\programa_gerenciador\\casprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A4E2B5-F2D5-41C7-9C84-44EBB5327825}|Programa_gerenciador\\Programa_gerenciador.csproj|solutionrelative:programa_gerenciador\\casprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05A4E2B5-F2D5-41C7-9C84-44EBB5327825}|Programa_gerenciador\\Programa_gerenciador.csproj|c:\\users\\mayar\\onedrive\\\u00E1rea de trabalho\\ccharm\\programa_gerenciador\\cadastrocli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05A4E2B5-F2D5-41C7-9C84-44EBB5327825}|Programa_gerenciador\\Programa_gerenciador.csproj|solutionrelative:programa_gerenciador\\cadastrocli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05A4E2B5-F2D5-41C7-9C84-44EBB5327825}|Programa_gerenciador\\Programa_gerenciador.csproj|C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm\\programa_gerenciador\\cadastrofunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{05A4E2B5-F2D5-41C7-9C84-44EBB5327825}|Programa_gerenciador\\Programa_gerenciador.csproj|solutionrelative:programa_gerenciador\\cadastrofunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{05A4E2B5-F2D5-41C7-9C84-44EBB5327825}|Programa_gerenciador\\Programa_gerenciador.csproj|c:\\users\\mayar\\onedrive\\\u00E1rea de trabalho\\ccharm\\programa_gerenciador\\fornecedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A4E2B5-F2D5-41C7-9C84-44EBB5327825}|Programa_gerenciador\\Programa_gerenciador.csproj|solutionrelative:programa_gerenciador\\fornecedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05A4E2B5-F2D5-41C7-9C84-44EBB5327825}|Programa_gerenciador\\Programa_gerenciador.csproj|c:\\users\\mayar\\onedrive\\\u00E1rea de trabalho\\ccharm\\programa_gerenciador\\cadastrocli.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05A4E2B5-F2D5-41C7-9C84-44EBB5327825}|Programa_gerenciador\\Programa_gerenciador.csproj|solutionrelative:programa_gerenciador\\cadastrocli.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05A4E2B5-F2D5-41C7-9C84-44EBB5327825}|Programa_gerenciador\\Programa_gerenciador.csproj|c:\\users\\mayar\\onedrive\\\u00E1rea de trabalho\\ccharm\\programa_gerenciador\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A4E2B5-F2D5-41C7-9C84-44EBB5327825}|Programa_gerenciador\\Programa_gerenciador.csproj|solutionrelative:programa_gerenciador\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -36,48 +36,51 @@
               "RelativeDocumentMoniker": "Programa_gerenciador\\Cadastrocli.cs",
               "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm\\Programa_gerenciador\\Cadastrocli.cs",
               "RelativeToolTip": "Programa_gerenciador\\Cadastrocli.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T14:39:15.279Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cadastrocli.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm\\Programa_gerenciador\\Cadastrocli.Designer.cs",
-              "RelativeDocumentMoniker": "Programa_gerenciador\\Cadastrocli.Designer.cs",
-              "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm\\Programa_gerenciador\\Cadastrocli.Designer.cs",
-              "RelativeToolTip": "Programa_gerenciador\\Cadastrocli.Designer.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwC0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T13:19:40.334Z",
-              "IsPinned": true
+              "WhenOpened": "2025-06-24T05:52:40.933Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Cadastrofunc.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm\\Programa_gerenciador\\Cadastrofunc.cs",
-              "RelativeDocumentMoniker": "Programa_gerenciador\\Cadastrofunc.cs",
-              "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm\\Programa_gerenciador\\Cadastrofunc.cs [Design]",
-              "RelativeToolTip": "Programa_gerenciador\\Cadastrofunc.cs [Design]",
+              "Title": "Fornecedores.cs",
+              "DocumentMoniker": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm\\Programa_gerenciador\\Fornecedores.cs",
+              "RelativeDocumentMoniker": "Programa_gerenciador\\Fornecedores.cs",
+              "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm\\Programa_gerenciador\\Fornecedores.cs",
+              "RelativeToolTip": "Programa_gerenciador\\Fornecedores.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswFkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T14:39:55.364Z",
+              "WhenOpened": "2025-06-24T05:48:42.164Z",
               "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Cadastrofunc.cs",
-              "DocumentMoniker": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm\\Programa_gerenciador\\Cadastrofunc.cs",
-              "RelativeDocumentMoniker": "Programa_gerenciador\\Cadastrofunc.cs",
-              "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm\\Programa_gerenciador\\Cadastrofunc.cs",
-              "RelativeToolTip": "Programa_gerenciador\\Cadastrofunc.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAnwB4AAAAJAAAAAAAAAA==",
+              "Title": "CasProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm\\Programa_gerenciador\\CasProdutos.cs",
+              "RelativeDocumentMoniker": "Programa_gerenciador\\CasProdutos.cs",
+              "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm\\Programa_gerenciador\\CasProdutos.cs",
+              "RelativeToolTip": "Programa_gerenciador\\CasProdutos.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwv1QAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T14:40:08.166Z",
+              "WhenOpened": "2025-06-24T05:45:54.422Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vendas.cs",
+              "DocumentMoniker": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm\\Programa_gerenciador\\Vendas.cs",
+              "RelativeDocumentMoniker": "Programa_gerenciador\\Vendas.cs",
+              "ToolTip": "C:\\Users\\mayar\\OneDrive\\\u00C1rea de Trabalho\\cCharm\\Programa_gerenciador\\Vendas.cs",
+              "RelativeToolTip": "Programa_gerenciador\\Vendas.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwEAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:40:34.098Z",
               "IsPinned": true,
               "EditorCaption": ""
             }

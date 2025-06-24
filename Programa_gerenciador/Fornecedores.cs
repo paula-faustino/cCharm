@@ -8,6 +8,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Programa_gerenciador_DLL;
+
 
 namespace Programa_gerenciador
 {
@@ -74,26 +76,8 @@ namespace Programa_gerenciador
                     return;
                 }
 
-                var strConexao = "server=localhost;uid=root;pwd=;database=trabaio;";
-                using (var conexao = new MySqlConnection(strConexao))
-                {
-                    conexao.Open();
-
-                    var sql = @"INSERT INTO fornecedor
-                (nome_forn, cnpj_forn, tel_forn, email_forn, endereco_forn)
-                VALUES (@nome, @cnpj, @telefone, @email, @endereco)";
-
-                    using (var cmd = new MySqlCommand(sql, conexao))
-                    {
-                        cmd.Parameters.AddWithValue("@nome", nome);
-                        cmd.Parameters.AddWithValue("@cnpj", cnpj);
-                        cmd.Parameters.AddWithValue("@telefone", telefone);
-                        cmd.Parameters.AddWithValue("@email", email);
-                        cmd.Parameters.AddWithValue("@endereco", endereco);
-
-                        cmd.ExecuteNonQuery();
-                    }
-                }
+                Fornecedor fornecedorDLL = new Fornecedor();
+                fornecedorDLL.SalvarFornecedor(nome, cnpj, telefone, email, endereco);
 
                 MessageBox.Show("Fornecedor salvo com sucesso!");
                 LimparCamposFornecedor();
@@ -105,11 +89,11 @@ namespace Programa_gerenciador
         }
             private void LimparCamposFornecedor()
         {
-            textBox3.Clear(); 
-            textBox1.Clear(); // cnpj
-            maskedTextBox2.Clear(); // telefone
-            textBox2.Clear(); // email
-            textBox4.Clear(); // endereço
+            textBox3.Clear();
+            textBox1.Clear();
+            maskedTextBox2.Clear(); 
+            textBox2.Clear(); 
+            textBox4.Clear(); 
         }
     
     }
